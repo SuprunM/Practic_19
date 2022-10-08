@@ -1,12 +1,32 @@
+<<<<<<< HEAD
 ul{
     list-style-type: none;
 }
+=======
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+ul {
+    list-style-type: none;
+}
+.list {
+    flex: 0 0 25%;
+}
+>>>>>>> 39fa21cf1f53184f6c3d22d60afe915e669a4faf
 .container {
     max-width: 1220px;
     margin: 0 auto;
     padding: 0 20px;
+<<<<<<< HEAD
 }
 .gifts .list{
+=======
+
+}
+.gifts .list {
+>>>>>>> 39fa21cf1f53184f6c3d22d60afe915e669a4faf
     display: flex;
     justify-content: space-between;
 }
